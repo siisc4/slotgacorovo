@@ -1,11 +1,11 @@
 {
-  "name": "ui-theme-template",
+  "name": "slot-gacor-deposit-ovo-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "description": "Daftar slot gacor deposit ovo mudah menang",
   "keywords": [
-    "ui",
-    "theme"
+    "slot gacor",
+    "slot deposit ovo"
   ],
   "repository": "https://atom.io/themes/slotgacorovo",
   "license": "MIT",
