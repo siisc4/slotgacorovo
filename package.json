@@ -7,7 +7,10 @@
     "slot gacor",
     "slot deposit ovo"
   ],
-  "repository": "https://github.com/Siisc4/slotgacorovo.git",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Siisc4/slotgacorovo.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
