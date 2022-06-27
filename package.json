@@ -1,5 +1,5 @@
 {
-  "name": "slot-gacor-deposit-ovo",
+  "name": "slotgacorovo",
   "theme": "ui",
   "version": "1.0.2",
   "description": "Daftar slot gacor deposit ovo mudah menang",
@@ -9,7 +9,7 @@
   ],
   "repository": {
   "type": "git",
-  "url": "https://github.com/Siisc4/slotgacorovo.git"
+  "url": "https://github.com/siisc4/slotgacorovo.git"
   },
   "license": "MIT",
   "engines": {
